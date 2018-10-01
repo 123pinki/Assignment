@@ -2,7 +2,7 @@ from selenium import webdriver
 
 
 def before_all(context):
-    driver = webdriver.Firefox()
+    driver = webdriver.Chrome()
     driver.implicitly_wait(20)
     driver.maximize_window()
     context.driver = driver
