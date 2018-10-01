@@ -1,0 +1,4 @@
+.idea/
+venv1/
+chromedriver
+*.pyc
