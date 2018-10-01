@@ -1,3 +1,3 @@
-### Bank Project
+### Assignment
 
 Selenium automation scripts
